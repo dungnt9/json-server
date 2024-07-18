@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "name": "CSS",
+      "description": "Nhiều bài",
+      "id": 3
+    },
+    {
+      "name": "HTML",
+      "description": "Nhiều bài tập",
+      "id": 7
+    }
+  ]
+}
